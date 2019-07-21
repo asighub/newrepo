@@ -1,0 +1,8 @@
+# CI Builds
+builds/
+
+# Distribution
+dist/
+
+# Demo photos
+demo/
